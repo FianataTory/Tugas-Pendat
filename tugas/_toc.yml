@@ -5,5 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: about_me
-- file: data_understanding
+- file: data_understanding.ipynb
 - file: notebooks
