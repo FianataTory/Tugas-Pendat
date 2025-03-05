@@ -5,4 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: about_me
-- file: data_understanding
+- file: Pendat_Tugas_1 
